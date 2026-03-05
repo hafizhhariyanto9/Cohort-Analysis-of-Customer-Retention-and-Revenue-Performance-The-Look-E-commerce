@@ -44,7 +44,7 @@ How do customer retention and revenue retention patterns differ across cohorts (
 4. **Replicate 2023-S1 strategy** — this cohort had the best performance; build a playbook from it
 5. **Analyze long-surviving customers** (2019-S2) — identify product and pricing factors that drive longevity
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Google BigQuery (TheLook dataset)
