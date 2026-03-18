@@ -1,5 +1,5 @@
 # Cohort Analysis: Customer Retention & Revenue Performance on The Look
-
+https://lookerstudio.google.com/reporting/cb0272f2-bb71-4fbb-b33d-333d0a1f2918
 ## Overview
 This project analyzes cohort-based customer retention and revenue retention for **The Look**, a global fashion e-commerce platform. The goal is to understand how well the platform retains customers and revenue across cohorts from 2019 to 2024.
 
